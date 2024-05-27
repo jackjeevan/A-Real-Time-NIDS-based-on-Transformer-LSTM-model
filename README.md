@@ -36,10 +36,14 @@ A Real-Time Network Intrusion Detection System based on Transformer-LSTM model (
 - Prebuilt kibana dashboard is used to display threats and network analysis
 
 ## Screenshots
-![Flowgenerator output](screenshots/data_processing.png)
+1. Flowgenerator output
+![image](screenshots/data_processing.png)
 
-![Producer output](screenshots/producer.png)
+2. Producer output
+![image](screenshots/producer.png)
  
-![Consumer output](screenshots/consumer.png)
+3. Consumer output
+![image](screenshots/consumer.png)
 
-![Kibana dashboard](screenshots/kibana_dash.png)
+4. Kibana dashboard
+![image](screenshots/kibana_dash.png)
