@@ -36,14 +36,10 @@ A Real-Time Network Intrusion Detection System based on Transformer-LSTM model (
 - Prebuilt kibana dashboard is used to display threats and network analysis
 
 ## Screenshots
-!(image)(https://github.com/jackjeevan/A-Real-Time-NIDS-based-on-Transformer-LSTM-model.git/main/screenshots/data_processing.png)
-1. Flowgenerator output
+![Flowgenerator output](screenshots/data_processing.png)
 
-2. Producer output
-!(image)(https://github.com/jackjeevan/A-Real-Time-NIDS-based-on-Transformer-LSTM-model.git/main/screenshots/producer.png)
+![Producer output](screenshots/producer.png)
+ 
+![Consumer output](screenshots/consumer.png)
 
-3. Consumer output
-!(image)(https://github.com/jackjeevan/A-Real-Time-NIDS-based-on-Transformer-LSTM-model.git/main/screenshots/consumer.png)
-
-4. Kibana dashboard
-!(image)(https://github.com/jackjeevan/A-Real-Time-NIDS-based-on-Transformer-LSTM-model.git/main/screenshots/kibana_dash.png)
+![Kibana dashboard](screenshots/kibana_dash.png)
