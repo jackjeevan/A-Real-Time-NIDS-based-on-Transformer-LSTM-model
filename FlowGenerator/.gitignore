@@ -1,0 +1,12 @@
+venv/*
+setting/__pycache__/*
+mlridin.log
+pcaps/*
+csv/*
+features/__pycache__/*
+features/context/__pycache__/*
+machinelearning/__pycache__/*
+flow.csv
+models/*
+__pycache__/*
+normal/*
